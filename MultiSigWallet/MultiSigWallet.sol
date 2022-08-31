@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: UNLICENSED
-// My try of SmartContractProgrammer's MultiSigWallet
+// My take on SmartContractProgrammer's MultiSigWallet
 
 pragma solidity ^0.8.13;
 
